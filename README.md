@@ -14,7 +14,7 @@ PROYECTO DE SISTEMAS CONTABLES Contiene:
 3. Balance de comprobacion
 
 
-Base de datos - Hecha en posgresSql en el programa PgAdmin 4
+Base de datos - Hecha en postgres SQL en el programa PgAdmin 4
 
 Nota: 'Importar base de datos para poder ejecutar el programa ya que esta a nivel de localhost'
 Nota: 'Cambiar el password de la BD por la contraseña que tiene su PgAdmin 4 para conexion de la misma'
